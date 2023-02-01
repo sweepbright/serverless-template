@@ -1,0 +1,7 @@
+service: aws-nodejs
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: nodejs16.x
+
